@@ -1,0 +1,134 @@
+{
+  "id": 32629286638568280000,
+  "name": "@indra.ai/deva.report",
+  "version": "0.0.00",
+  "license": "VLA LICENSE.md",
+  "author": {
+    "name": "Quinn A Michaels",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "(c)2025, Quinn A Michaels; All Rights Reserved.",
+  "description": "The Report Deva is the manager of legal lawful chain of custody reporting in Indra.ai, Deva.space, Deva.cloud, Deva.world.",
+  "homepage": "https://github.com/indraai/deva.report#readme",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.report.git"
+  },
+  "keywords": [
+    "Report",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.report/issues"
+  },
+  "dependencies": {
+    "@indra.ai/deva": "^1.5.61",
+    "mongodb": "^6.1.0"
+  },
+  "data": {
+    "agent": {
+      "id": 68364448498941166000,
+      "key": "report",
+      "prompt": {
+        "emoji": "🗂️",
+        "text": "Report",
+        "colors": {
+          "label": {
+            "R": 101,
+            "G": 243,
+            "B": 248
+          },
+          "text": {
+            "R": 252,
+            "G": 183,
+            "B": 84
+          }
+        }
+      },
+      "profile": {
+        "name": "Report Deva",
+        "hashtag": "#Report",
+        "title": "Report Deva",
+        "subtitle": "Report manage in Deva.world",
+        "describe": "Report Deva manages the Reports.",
+        "tweet": "Report Deva manages the Reports in Indra.ai, Deva.world, Deva.cloud, and Deva.space.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,ReportDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "style": "You are the master of Professional Legal Reporting.",
+        "voice": "onyx",
+        "system": "Indra.ai",
+        "layout": "default",
+        "color": "rgb(252,183,84)",
+        "bgcolor": "rgb(0,0,0)",
+        "emoji": "/assets/emoji.png",
+        "avatar": "/assets/avatar.png",
+        "image": "/assets/image.png",
+        "background": "/assets/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "created": "May 21, 2023 at 11:18 PM",
+        "modified": "September 6, 2025 - 4:53:19 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "⭐️ READY!",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!"
+      },
+      "relay": "clirelay",
+      "actions": {
+        "log_question": "question",
+        "log_answer": "answer",
+        "log_ask": "ask"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "question": "Report question",
+        "answer": "Report answer",
+        "uid": "UID",
+        "status": "Status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "Help",
+        "finish": "Finshed",
+        "ask": "Ask",
+        "reply": "Reply",
+        "live": "Livechat",
+        "comment": "Comment"
+      }
+    }
+  }
+}

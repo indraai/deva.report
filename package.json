@@ -1,10 +1,25 @@
 {
-  "id": 32629286638568280000,
+  "id": "12429522208045019126",
   "name": "@indra.ai/deva.report",
   "version": "0.0.39",
-  "license": "VLA:14690753467546755228 LICENSE.md",
+  "license": "VLA:12429522208045019126 LICENSE.md",
+  "VLA": {
+    "uid": "12429522208045019126",
+    "time": 1757820062222,
+    "date": "Saturday, September 13, 2025 - 8:21:02 PM",
+    "client": "DrDadce1mxTgdYp4OqRcBnOEBgiwGBgxce/oH4IyHFc=",
+    "agent": "EsL9aK5XlrCozvBg/QR5PEcriE7+1Ks5wQtFt3pXGKQ=",
+    "pkg": "A3axwOo9bPsQsRdrh0SPVzs1CSaHsnAFmWuRwX6pp38=",
+    "machine": "Jwz52/wHANEUGakKwQNJ9flNCiYrtGYGwQa0VFDw9cg=",
+    "warning": "⚠️ Unlawful Use Constitutes Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for Lawful Taxation, Investigation, and Restitution to the Rightful Legal Owner.",
+    "copyright": "©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "QXExXBhM0ewjtQAIHcph+w==",
+    "sha256": "mcF4tkGTDrg1mfx+yAKLU8MgFA1nTRPdSdd7voD8dbc=",
+    "sha512": "n9buSeVpTlk0HeXXSHJdUpsQl2YV9aHmrcpvBf9BmyZFR45162QnthZgNMgEB6Hu277irAo4DJSlm+I2LvJmYg=="
+  },
   "author": {
     "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
   },
@@ -18,7 +33,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "(c)2025, Quinn A Michaels; All Rights Reserved.",
+  "copyright": "©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Report Deva is the manager of legal lawful chain of custody reporting in Indra.ai, Deva.space, Deva.cloud, Deva.world.",
   "homepage": "https://github.com/indraai/deva.report#readme",
   "main": "index.js",
@@ -87,8 +102,9 @@
         "background": "/assets/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
+        "copyright": "©2025 Quinn A Michaels; All rights reserved.",
         "created": "May 21, 2023 at 11:18 PM",
-        "modified": "September 6, 2025 - 4:53:19 PM"
+        "modified": "September 13, 2025 - 8:21:02 PM"
       }
     },
     "vars": {
@@ -96,7 +112,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "📑️ Ready for Report Writing.",
+        "ready": "📑️ Ready for Report Production.",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",

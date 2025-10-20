@@ -62,7 +62,7 @@
   },
   "data": {
     "agent": {
-      "id": 68364448498941166000,
+      "id": "68364448498941166000",
       "key": "report",
       "prompt": {
         "emoji": "🗂️",
@@ -81,6 +81,7 @@
         }
       },
       "profile": {
+        "id": "17535808875515182057",
         "name": "Report Deva",
         "hashtag": "#Report",
         "title": "Report Deva",
@@ -96,13 +97,13 @@
         "layout": "default",
         "color": "rgb(252,183,84)",
         "bgcolor": "rgb(0,0,0)",
-        "emoji": "/assets/emoji.png",
-        "avatar": "/assets/avatar.png",
-        "image": "/assets/image.png",
-        "background": "/assets/background.png",
+        "emoji": "/devas/report/emoji.png",
+        "avatar": "/devas/report/avatar.png",
+        "image": "/devas/report/image.png",
+        "background": "/devas/report/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "copyright": "©2025 Quinn A Michaels; All rights reserved.",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
         "created": "May 21, 2023 at 11:18 PM",
         "modified": "September 13, 2025 - 8:21:02 PM"
       }

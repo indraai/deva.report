@@ -57,7 +57,7 @@
     "url": "https://github.com/indraai/deva.report/issues"
   },
   "dependencies": {
-    "@indra.ai/deva": "^1.22.1",
+    "@indra.ai/deva": "^1.23.0",
     "mongodb": "^6.1.0"
   },
   "data": {
@@ -103,9 +103,9 @@
         "background": "/devas/report/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
+        "warning": "A report should be signed by author, the natural order of ideas and syllables should not be interrupted, local customs and general rules should be observed in it, and it should be complete in every respect. Therefore reports should be preserved carefully. If this be done, lawsuits whether relating to immovable or to movable property are sure to succeed.",
         "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "created": "May 21, 2023 at 11:18 PM",
-        "modified": "September 13, 2025 - 8:21:02 PM"
+        "created": "May 21, 2023 at 11:18 PM"
       }
     },
     "vars": {

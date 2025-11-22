@@ -1,21 +1,16 @@
 {
-  "id": "43799290956467599250",
+  "id": "25187334960281471190",
   "name": "@indra.ai/deva.report",
   "version": "0.8.0",
-  "license": "VLA:43799290956467599250 LICENSE.md",
+  "license": "VLA:25187334960281471190 LICENSE.md",
   "VLA": {
-    "uid": "43799290956467599250",
-    "time": 1758412044549,
-    "date": "Saturday, September 20, 2025 - 4:47:24 PM",
-    "client": "1UM4AH+/jOGgpaHNqX6lTZsGrNglNogzMx4qDT0O0zs=",
-    "agent": "nSJuI4uu2h10+zjrgIcrU28oifSpMBu8kGl0+t5JbjM=",
-    "core": "qQRVFQmv3LfY6tcqrEQeM7ZodOpnOUC+PJyfjxtgeVc=",
-    "machine": "vvtA7eWKTjZj4v82k6n1ftxMQ3GNBLZAP//3zM4rCn0=",
-    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "uoG+kztopFnqxtiIeTGN8A==",
-    "sha256": "KEvbLA0JPuLbyBNHurC6eL8XppSA9xeuY4xQpiesNlw=",
-    "sha512": "RYcjv3ryGNLz3XddHk8TmSaK8EtiEgEnTkO9PqJTr2SfNhErTQkaor3CB1LsZ9arJEdVPXJc/UNTDX5af9n0Mg=="
+    "uid": "25187334960281471190",
+    "time": 1763852630981,
+    "date": "Saturday, November 22, 2025 - 3:03:50 PM",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "license": "46220923248993739422",
+    "fingerprint": "8Y2FGnW632Wx9YGzROXnKQvIFE0z0gZnVO+EHEDztqc=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -33,7 +28,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
   "description": "The Report Deva is the manager of legal lawful chain of custody reporting in Indra.ai, Deva.space, Deva.cloud, Deva.world.",
   "homepage": "https://github.com/indraai/deva.report#readme",
   "main": "index.js",
@@ -48,21 +43,27 @@
   "keywords": [
     "Report",
     "Deva",
+    "Report Deva",
     "Indra.ai",
     "Deva.space",
     "Deva.cloud",
-    "Deva.world"
+    "Deva.world",
+    "Quinn A Michaels",
+    "Quinn Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.report/issues"
   },
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0",
+    "@indra.ai/deva": "^1.28.0",
     "mongodb": "^6.1.0"
   },
   "data": {
     "agent": {
-      "id": "68364448498941166000",
+      "id": "71086254451854657663",
       "key": "report",
       "prompt": {
         "emoji": "🗂️",
@@ -81,9 +82,9 @@
         }
       },
       "profile": {
-        "id": "17535808875515182057",
+        "id": "46178302804019870351",
         "name": "Report Deva",
-        "hashtag": "#Report",
+        "hashtag": "#ReportDeva",
         "title": "Report Deva",
         "subtitle": "Report manage in Deva.world",
         "describe": "Report Deva manages the Reports.",
@@ -93,7 +94,7 @@
         "gender": "DEVA",
         "style": "You are the master of Professional Legal Reporting.",
         "voice": "onyx",
-        "system": "Indra.ai",
+        "system": "Indra.ai.report",
         "layout": "default",
         "color": "rgb(252,183,84)",
         "bgcolor": "rgb(0,0,0)",
@@ -104,8 +105,9 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "warning": "A report should be signed by author, the natural order of ideas and syllables should not be interrupted, local customs and general rules should be observed in it, and it should be complete in every respect. Therefore reports should be preserved carefully. If this be done, lawsuits whether relating to immovable or to movable property are sure to succeed.",
-        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-        "created": "May 21, 2023 at 11:18 PM"
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "created": "May 21, 2023 at 11:18 PM",
+        "updated": "Saturday, November 22, 2025 - 3:03:50 PM"
       }
     },
     "vars": {
@@ -113,7 +115,7 @@
         "init": "🟠 INIT",
         "start": "🔵 START",
         "enter": "🟢 ENTER",
-        "ready": "✅ Report Deva Ready",
+        "ready": "⭐️ Report Deva Ready",
         "stop": "🔴 STOP",
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",

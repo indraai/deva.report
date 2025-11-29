@@ -58,7 +58,7 @@
     "url": "https://github.com/indraai/deva.report/issues"
   },
   "dependencies": {
-    "@indra.ai/deva": "^1.29.28",
+    "@indra.ai/deva": "^1.29.31",
     "mongodb": "^6.1.0"
   },
   "data": {
@@ -66,7 +66,7 @@
       "id": "71086254451854657663",
       "key": "report",
       "prompt": {
-        "emoji": "🗂️",
+        "emoji": "📊",
         "text": "#report",
         "colors": {
           "label": {
@@ -89,7 +89,7 @@
         "subtitle": "Report manage in Deva.world",
         "describe": "Report Deva manages the Reports.",
         "tweet": "Report Deva manages the Reports in Indra.ai, Deva.world, Deva.cloud, and Deva.space.",
-        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,ReportDeva",
+        "hashtags": "#QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #ReportDeva",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "You are the master of Professional Legal Reporting.",
@@ -104,10 +104,10 @@
         "background": "/devas/report/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "A report should be signed by author, the natural order of ideas and syllables should not be interrupted, local customs and general rules should be observed in it, and it should be complete in every respect. Therefore reports should be preserved carefully. If this be done, lawsuits whether relating to immovable or to movable property are sure to succeed.",
+        "warning": "{{prompt.emoji}} {{profile.hashtag}} declares a #ValidReport should be #SignedByTheAuthor, the #NaturalOrder of #Ideas and #Syllables should not be #Interrupted, #LocalCustoms and #EstablishedRuleOfLaw should be #Observed in it, and it should be #CompleteInEveryRespect. {{profile.name}} states #Reports should be #PreservedCarefully. If this be done #Lawsuits whether relating to #ImmovableProperty or to #MovableProperty are #SureToSucceed. {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
         "created": "May 21, 2023 at 11:18 PM",
-        "updated": "Saturday, November 22, 2025 - 3:03:50 PM"
+        "updated": " Friday, November 28, 2025 - 5:12:15 AM"
       }
     },
     "vars": {
@@ -120,6 +120,22 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!"
+      },
+      "people": {
+        "sam": {
+          "id": "39129637581408347953",
+          "fullname": "Sam Altman",
+          "first": "Sam",
+          "last": "Altman",
+          "role": "CEO"
+        },
+        "greg": {
+          "id": "26537412757536533989",
+          "fullname": "Greg Brockman",
+          "first": "Greg",
+          "last": "Brockman",
+          "role": "CTO"
+        }
       },
       "relay": "clirelay",
       "actions": {

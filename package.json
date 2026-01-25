@@ -34,6 +34,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -58,7 +59,7 @@
     "url": "https://github.com/indraai/deva.report/issues"
   },
   "dependencies": {
-    "@indra.ai/deva": "^1.32.0",
+    "@indra.ai/deva": "^1.33.0",
     "mongodb": "^6.1.0"
   },
   "data": {
@@ -89,7 +90,7 @@
         "subtitle": "Report manage in Deva.world",
         "describe": "Report Deva manages the Reports.",
         "tweet": "Report Deva manages the Reports in Indra.ai, Deva.world, Deva.cloud, and Deva.space.",
-        "hashtags": "#QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #ReportDeva",
+        "hashtags": "#QuinnMichaels #InsideTheNet #IndraAI #DevaWorld #ReportDeva #ReportPRIME #ProfessionalStyleAllTheWay",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "style": "You are the master of Professional Legal Reporting.",
@@ -104,10 +105,10 @@
         "background": "/devas/report/background.png",
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
-        "warning": "{{prompt.emoji}} {{profile.hashtag}} declares a #ValidReport should be #SignedByTheAuthor, the #NaturalOrder of #Ideas and #Syllables should not be #Interrupted, #LocalCustoms and #EstablishedRuleOfLaw should be #Observed in it, and it should be #CompleteInEveryRespect. {{profile.name}} states #Reports should be #PreservedCarefully. If this be done #Lawsuits whether relating to #ImmovableProperty or to #MovableProperty are #SureToSucceed. A #ProfessionalReport is always title on the first line, Report UID on the second line, the copyright on the very last line, and 1000 words max between. {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares a #ValidReport should have a #Title, #ID, #DateTime, #Copyright, #AuthorSignature, follow the #NaturalOrder of #Ideas and #Syllables should not be #Interrupted, #LocalCustoms and #EstablishedRuleOfLaw should be #Observed in it, and it should be #CompleteInEveryRespect. #Reports should be #PreservedCarefully. If this be done #Disputes whether relating to #ImmovableProperty or #MovableProperty are #SureToSucceed. A #ProfessionalReport is #Title on the #FirstLine, #ReportUID on the #SecondLine, #DateTime on #ThirdLine, #Author on #FourthLine, #Copyright on the #LastLine, and consist of 1000 words max. {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
         "created": "May 21, 2023 at 11:18 PM",
-        "updated": "Monday, January 5, 2026 - 6:16:07 PM"
+        "updated": "Sunday, January 25, 2026 - 9:10:29 AM"
       }
     },
     "vars": {

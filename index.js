@@ -6,6 +6,10 @@
 //  Monday, January 5, 2026 - 6:16:07 PM
 
 import Deva from '@indra.ai/deva';
+import research from '/Users/quinnmichaels/Dev/deva.space/devas/deva.research/index.js'
+import investigate from '/Users/quinnmichaels/Dev/deva.space/devas/deva.investigate/index.js'
+import evidence from '/Users/quinnmichaels/Dev/deva.space/devas/deva.evidence/index.js'
+
 import {MongoClient} from 'mongodb';
 import pkg from './package.json' with {type:'json'};
 const {agent,vars} = pkg.data;
@@ -40,6 +44,11 @@ const ReportDeva = new Deva({
     process(input) {return input.trim();}
   },
   listeners: {},
+  devas: {
+    research,
+    investigate,
+    evidence,
+  },
   modules: {
     client: false,
   },

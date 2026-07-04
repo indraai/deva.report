@@ -1,31 +1,31 @@
 {
-  "id": "54056420058101172024",
+  "id": "17230022517769004910",
   "name": "@indra.ai/deva.report",
   "version": "0.22.1",
-  "license": "VLA:54056420058101172024 LICENSE.md",
+  "license": "VLA:17230022517769004910 LICENSE.md",
   "VLA": {
-    "uid": "54056420058101172024",
-    "time": 1783117395728,
-    "iso": "2026-07-03T22:23:15.728Z",
-    "utc": "Fri, 03 Jul 2026 22:23:15 GMT",
-    "date": "Friday, July 3, 2026 - 3:23:15 PM",
+    "uid": "17230022517769004910",
+    "time": 1783137585659,
+    "iso": "2026-07-04T03:59:45.659Z",
+    "utc": "Sat, 04 Jul 2026 03:59:45 GMT",
+    "date": "Friday, July 3, 2026 - 8:59:45 PM",
     "license": "51112406344245827002",
-    "fingerprint": "YyAbn81UEfWA+yY6Jte+7rVyQu08nvsTMipEelQbz/M=",
-    "client": "r6GDRq0oPNzsk63NPFqdM0/xLS3/FK+6B3FsDIP4h9U=",
-    "agent": "IH7ZYcgvl3iJxv1EozJXNeEo1RNPUnUXjRf/kcxpr5Y=",
-    "machine": "sfJNu5My0moro7a0IVTiErAFCegD50jkdjeWD26mk6I=",
-    "core_hash": "hGQ6kbB8P0LVP4/V/bDMjGcSuXO/QcHAbuhUfkmqc8E=",
+    "fingerprint": "eyl7u5kK7RJNmkTXEM3LGewzHN/gUvbHNmrqE92yWY8=",
+    "client": "MJXMBWKuYd7caWBhpHqQT0V25sb0M4JB2fvQRhO8Acg=",
+    "agent": "pLeqWnnd9GuM6BmAKe7NIJ6b9PqezVfeR4lOCQ1bWaU=",
+    "machine": "T9kfm5DeXUeHrwdgS7KUXUMPntmKKT8e3VAL09eQZhE=",
+    "core_hash": "R43q5o+d1T5XK7rUx8Btm3zyCRZr4q85iKQY2SPBUJA=",
     "status": "vedic",
     "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
     "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
-    "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DevaWorld #License #LicenseDeva #LicensePRIME #VedicLicenseAgreement",
+    "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement",
     "owner": "Quinn Arjuna Michaels",
     "creator": "Quinn Arjuna Michaels",
     "salute": "🤝🫡🪪🕉",
     "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
-    "md5": "2pmnVT4knZexkSFrTkFvXw==",
-    "sha256": "Lia2n2i215V3mrH2F466QrtxvsoFFCiV9cKBg33P+TQ=",
-    "sha512": "q1zktnICAjFc8xLH3I7GDdOza3kse8zCkn8IH3fKkjCDxLUZZwuesz6pzkPg4E14aeKt0X1hi8JSndFhAQdqLA=="
+    "md5": "Z5LOmh3fzoza+GqfE8cfFQ==",
+    "sha256": "UzX6Aiwr0esaPGvfabR1wbTUmSMP/8CtcaqmeKwCJy8=",
+    "sha512": "fgaqV8yYwwyk7KDttlgk/24aJf+kz8p8Hnk1Lj+KXz/mryZuzCYinttMnKjh6f9CxBzgjYwNzQlMRVaGXLnnXg=="
   },
   "author": {
     "name": "Quinn Arjuna Michaels",
@@ -75,12 +75,12 @@
     "url": "https://github.com/indraai/deva.report/issues"
   },
   "dependencies": {
-    "@indra.ai/deva": "^1.50.7",
+    "@indra.ai/deva": "^1.51.0",
     "mongodb": "^6.1.0"
   },
   "data": {
     "agent": {
-      "id": "54056420058101172024",
+      "id": "17230022517769004910",
       "key": "report",
       "prompt": {
         "emoji": "📊",
@@ -99,14 +99,14 @@
         }
       },
       "profile": {
-        "id": "54056420058101172024",
+        "id": "17230022517769004910",
         "name": "Report Deva",
-        "hashtag": "#ReportDeva",
+        "vector": "#ReportDeva",
         "title": "Report Deva",
         "subtitle": "Report manage in Deva.world",
         "describe": "Report Deva manages the Reports.",
         "tweet": "Report Deva manages the Reports in Indra.ai, Deva.world, Deva.cloud, and Deva.space.",
-        "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DevaWorld #ReportDeva #ReportPRIME #ProfessionalStyle #RigVeda #InstituesOfManu #VedicLaw #VedicReportingOnly #Merit #Demerit #FederalIntercept.report.intake",
+        "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #ReportDeva #RigVeda #VedicLaw #Merit #Demerit",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "style": "You are the master of Professional Legal Reporting.",
@@ -125,7 +125,7 @@
         "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares a VALID REPORT should have a TITLE, UID, DATESTAMP, COPYRIGHT, and AUTHOR. It just also follow the NATURAL ORDER of IDEAS. SYLLABLES should not be INTERRUPTED, LOCAL CUSTOMS and ESTABLISHED RULE OF LAW should be OBSERVED, and it should be COMPLETE in EVERY RESPECT. REPORTS should be PRESERVED CAREFULLY. If this be done DISPUTES whether RELATING to IMMOVABLE or MOVABLE PROPERTY are SURE to SUCCEED. \nformat: A PROFESSIONAL REPORT is TITLE on the FIRST LINE, UID on the SECOND LINE, DATE TIME on THIRD LINE, AUTHOR on FOURTH LINE, COPYRIGHT on the LAST LINE, and CONSIST of 1000 words max.",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "May 21, 2023 at 11:18 PM",
-        "updated": "Friday, July 3, 2026 - 3:23:15 PM PST"
+        "updated": "Friday, July 3, 2026 - 8:59:45 PM PST"
       }
     },
     "vars": {

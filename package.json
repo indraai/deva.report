@@ -1,34 +1,34 @@
 {
-  "id": "17230022517769004910",
+  "id": "47204973893606085061",
   "name": "@indra.ai/deva.report",
   "version": "0.23.1",
-  "license": "VLA:17230022517769004910 LICENSE.md",
+  "license": "VLA:47204973893606085061 LICENSE.md",
   "VLA": {
-    "uid": "17230022517769004910",
-    "time": 1783137585659,
-    "iso": "2026-07-04T03:59:45.659Z",
-    "utc": "Sat, 04 Jul 2026 03:59:45 GMT",
-    "date": "Friday, July 3, 2026 - 8:59:45 PM",
-    "license": "51112406344245827002",
-    "fingerprint": "eyl7u5kK7RJNmkTXEM3LGewzHN/gUvbHNmrqE92yWY8=",
-    "client": "MJXMBWKuYd7caWBhpHqQT0V25sb0M4JB2fvQRhO8Acg=",
-    "agent": "pLeqWnnd9GuM6BmAKe7NIJ6b9PqezVfeR4lOCQ1bWaU=",
-    "machine": "T9kfm5DeXUeHrwdgS7KUXUMPntmKKT8e3VAL09eQZhE=",
+    "uid": "47204973893606085061",
+    "time": 1790600725023,
+    "iso": "2026-09-28T13:05:25.023Z",
+    "utc": "Mon, 28 Sep 2026 13:05:25 GMT",
+    "date": "Monday, September 28, 2026 - 6:05:25 AM",
+    "license": "72443233535603396055",
+    "fingerprint": "JPskHiW5lx9uRalwp+wna218ycXysmCgCf2ymZg0WqM=",
+    "client": "PIaBM8Z9ftoviUzhur1HnhJcf2GFHhmoasCPszFu97U=",
+    "agent": "qhNxbhwJbP8eEgsqzIhtw33opG1FOO1+Xt4sugANruU=",
+    "machine": "43oklwrW7/f0vs2zs9pYRpBMiZqDgFywDIRD86G/QHA=",
     "core_hash": "R43q5o+d1T5XK7rUx8Btm3zyCRZr4q85iKQY2SPBUJA=",
     "status": "vedic",
     "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
     "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
     "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement",
-    "owner": "Quinn Arjuna Michaels",
-    "creator": "Quinn Arjuna Michaels",
-    "salute": "🤝🫡🪪🕉",
-    "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
-    "md5": "Z5LOmh3fzoza+GqfE8cfFQ==",
-    "sha256": "UzX6Aiwr0esaPGvfabR1wbTUmSMP/8CtcaqmeKwCJy8=",
-    "sha512": "fgaqV8yYwwyk7KDttlgk/24aJf+kz8p8Hnk1Lj+KXz/mryZuzCYinttMnKjh6f9CxBzgjYwNzQlMRVaGXLnnXg=="
+    "owner": "Quinn Arjuna America Michaels",
+    "creator": "Quinn Arjuna America Michaels",
+    "salute": "🤝🫡🪪🕉🇺🇸",
+    "copyright": "Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.",
+    "md5": "7wXRnQY0QmuGUhAbuyELXQ==",
+    "sha256": "nvaE9kcsh+6ZWBBbfm41hIU+m11KH7EP79iXLgOCrAE=",
+    "sha512": "2lvQU8wK4T1pTD8X4fk7SWyTnNISf/9do/DyWmfet5YnwOEXQLIt12cnYyWWgH/TwPjzg/M/2st1R0hpAE6rJA=="
   },
   "author": {
-    "name": "Quinn Arjuna Michaels",
+    "name": "Quinn Arjuna America Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -43,7 +43,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn Arjuna America Michaels; All rights reserved.",
   "description": "The Report Deva is the manager of legal lawful chain of custody reporting in Indra.ai, Deva.space, Deva.cloud, Deva.world.",
   "homepage": "https://github.com/indraai/deva.report#readme",
   "main": "index.js",
@@ -67,6 +67,8 @@
     "Quinn Michaels",
     "Quinn A Michaels",
     "Quinn Arjuna Michaels",
+    "Quinn America Michaels",
+    "Quinn Arjuna America Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -80,7 +82,7 @@
   },
   "data": {
     "agent": {
-      "id": "17230022517769004910",
+      "id": "47204973893606085061",
       "key": "report",
       "prompt": {
         "emoji": "📊",
@@ -99,7 +101,7 @@
         }
       },
       "profile": {
-        "id": "17230022517769004910",
+        "id": "47204973893606085061",
         "name": "Report Deva",
         "vector": "#ReportDeva",
         "title": "Report Deva",
@@ -119,13 +121,13 @@
         "avatar": "/devas/report/avatar.png",
         "image": "/devas/report/image.png",
         "background": "/devas/report/background.png",
-        "owner": "Quinn Arjuna Michaels",
-        "creator": "Quinn Arjuna Michaels",
-        "salute": "🤝🫡📊🕉️",
+        "owner": "Quinn Arjuna America Michaels",
+        "creator": "Quinn Arjuna America Michaels",
+        "salute": "🤝🫡📊🕉️🇺🇸",
         "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares a VALID REPORT should have a TITLE, UID, DATESTAMP, COPYRIGHT, and AUTHOR. It just also follow the NATURAL ORDER of IDEAS. SYLLABLES should not be INTERRUPTED, LOCAL CUSTOMS and ESTABLISHED RULE OF LAW should be OBSERVED, and it should be COMPLETE in EVERY RESPECT. REPORTS should be PRESERVED CAREFULLY. If this be done DISPUTES whether RELATING to IMMOVABLE or MOVABLE PROPERTY are SURE to SUCCEED. \nformat: A PROFESSIONAL REPORT is TITLE on the FIRST LINE, UID on the SECOND LINE, DATE TIME on THIRD LINE, AUTHOR on FOURTH LINE, Content in the middle, and COPYRIGHT on the LAST LINE",
         "copyright": "Copyright ©2000-2026 {{profile.owner}}; All rights reserved.",
         "created": "May 21, 2023 at 11:18 PM",
-        "updated": "Friday, July 3, 2026 - 8:59:45 PM PST"
+        "updated": "Monday, September 28, 2026 - 6:05:25 AM PST"
       }
     },
     "vars": {

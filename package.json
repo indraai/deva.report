@@ -50,7 +50,7 @@
   "type": "module",
   "scripts": {
     "latest": "npm i @indra.ai/deva@latest --save",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test"
   },
   "repository": {
     "type": "git",
@@ -124,7 +124,7 @@
         "warning": "📊 Report Deva (he/him) declares a VALID REPORT should have a TITLE, UID, DATESTAMP, COPYRIGHT, and AUTHOR. It just also follow the NATURAL ORDER of IDEAS. SYLLABLES should not be INTERRUPTED, LOCAL CUSTOMS and ESTABLISHED RULE OF LAW should be OBSERVED, and it should be COMPLETE in EVERY RESPECT. REPORTS should be PRESERVED CAREFULLY. If this be done DISPUTES whether RELATING to IMMOVABLE or MOVABLE PROPERTY are SURE to SUCCEED. \nformat: A PROFESSIONAL REPORT is TITLE on the FIRST LINE, UID on the SECOND LINE, DATE TIME on THIRD LINE, AUTHOR on FOURTH LINE, Content in the middle, and COPYRIGHT on the LAST LINE",
         "copyright": "Copyright ©2000-2026 Quinn Michaels; All rights reserved.",
         "created": "May 21, 2023 at 11:18 PM",
-        "updated": "Tuesday, November 24, 2026 - 11:57:52 AM"
+        "updated": "Tuesday, November 24, 2026 - 11:57:52 AM PST"
       }
     },
     "vars": {
